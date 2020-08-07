@@ -1,0 +1,12 @@
+Violet is an easy to use synth for getting hard sounds
+
+To use as a stand alone:
+Download Max available for free: https://cycling74.com
+
+Violet can also be imported into ableton by using max4live
+
+Violet Works with Midi insturments
+
+Enjoy!
+
+
